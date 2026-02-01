@@ -1,7 +1,7 @@
-# Hello 👋, I'm José Augusto 
+# Hello 👋, I'am José Augusto 
 
 🚀 **junior developer| full stack JavaScript**  
-🇧🇷 **Iam from Brazil**
+🇧🇷 **I'am from Brazil**
 
 I build web systems in JavaScript, take a look at my repositories, link below.
 
