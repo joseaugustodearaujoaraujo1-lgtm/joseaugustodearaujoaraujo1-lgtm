@@ -1,9 +1,8 @@
-# Hello 👋, I'am José Augusto 
+# Olá 👋, meu nome é José Augusto
 
-🚀 **junior developer| full stack JavaScript**  
-🇧🇷 **I'am from Brazil**
+🚀 **Desenvolvedor full stack em javascript **
 
-I build web systems in JavaScript, take a look at my repositories, link below.
+Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacioneis
 
 ---
 
@@ -63,9 +62,7 @@ I build web systems in JavaScript, take a look at my repositories, link below.
 
 ## 🚀 Philosophy
 
-> _A web developer builds solutions with clean code, intuitive interfaces, security, and constant learning."_
+>"Desenvolvendo soluções por meio de tecnologias e codigo"_
 
----
 
-⭐ If you like my work, consider starring a repository  
 
