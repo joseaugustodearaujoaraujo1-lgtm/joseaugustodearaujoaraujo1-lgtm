@@ -6,7 +6,7 @@ Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacionei
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar 
 
 <p align="left">
   <a href="https://github.com/joseaugustodearaujoaraujo1-lgtm">
@@ -21,17 +21,17 @@ Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacionei
 
 ---
 
-## 🧠 What I do
+## 🧠 Minhas habilidades
 
--   🧩 Clean architecture & system design
--   🔐 Secure APIs 
--   🛠 Backend development
--   🎨 Animated user interfaces
--   🌍 Intermediate English
+-   🧩 Raciocinio lógico
+-   🔐 APIs e sistemas seguras
+-   🛠 desenvolvimento full 
+-   🤖 Automacão de IA 
+-   🌍 Ingles intermediario
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Frontend
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,10 +48,14 @@ Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacionei
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-546E7A?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-4CAF50?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ---
 
-## 📊 GitHub Stats
+### Automação
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+## 📊 GitHub Status
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=joseaugustodearaujoaraujo1-lgtm&show_icons=true&theme=tokyonight&count_private=true" />
@@ -60,9 +64,9 @@ Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacionei
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
->"Desenvolvendo soluções por meio de tecnologias e codigo"_
+>"Se eu entrar no jogo, eu entro para vencer!"_
 
 
 
