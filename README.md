@@ -39,7 +39,7 @@ Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacionei
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-
+---
 
 ### Backend
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -54,6 +54,7 @@ Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacionei
 ### Automação
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+---
 
 ## 📊 GitHub Status
 
