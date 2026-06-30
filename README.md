@@ -1,6 +1,6 @@
 # Olá 👋, meu nome é José Augusto
 
-🚀 **Desenvolvedor full stack em javascript **
+🚀 **Desenvolvedor full stack em javascript**
 
 Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacioneis
 
@@ -58,10 +58,7 @@ Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacionei
 
 ## 📊 GitHub Status
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joseaugustodearaujoaraujo1-lgtm&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseaugustodearaujoaraujo1-lgtm&layout=compact&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=joseaugustodearaujoaraujo1-lgtm&show_icons=true&theme=tokyonight)
 
 ---
 
