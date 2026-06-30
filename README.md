@@ -56,9 +56,10 @@ Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacionei
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ---
 
-## 📊 GitHub Status
+## 📊 Princinpais projetos
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joseaugustodearaujoaraujo1-lgtm&show_icons=true&theme=tokyonight)
+[Back-end autenticacao completa com JWT](https://github.com/joseaugustodearaujoaraujo1-lgtm/Autenticacao-JWT-backend-SQL)
+
 
 ---
 
