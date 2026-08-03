@@ -2,7 +2,7 @@
 
 🚀 **Desenvolvedor full stack em javascript**
 
-Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacioneis
+Eu construo aplicacões web inteiras em JS e banco relacionais ou não relacionais
 
 ---
 
@@ -24,8 +24,8 @@ Eu construo aplicaces web înteiras em JS e banco relacionais ou não relacionei
 ## 🧠 Minhas habilidades
 
 -   🧩 Raciocinio lógico
--   🔐 APIs e sistemas seguras
--   🛠 desenvolvimento full 
+-   🔐 Banco de dados SQL
+-   🛠 desenvolvimento full stack
 -   🤖 Automacão de IA 
 -   🌍 Ingles intermediario
 
