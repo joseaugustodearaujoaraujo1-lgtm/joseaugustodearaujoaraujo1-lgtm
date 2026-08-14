@@ -61,7 +61,7 @@ Eu construo aplicacões web inteiras em JS e banco relacionais ou não relaciona
 [Back-end autenticacao completa com JWT](https://github.com/joseaugustodearaujoaraujo1-lgtm/Autenticacao-JWT-backend-SQL)
 
 
-[chatbot anonymous](https://github.com/joseaugustodearaujoaraujo1-lgtm/chatbot_anonymous)
+[chatbot anonymous IA](https://github.com/joseaugustodearaujoaraujo1-lgtm/chatbot_anonymous)
 
 
 ---
