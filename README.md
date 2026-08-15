@@ -1,3 +1,5 @@
+<img src="./assets/code-terminal.gif" width="100%">
+
 # Olá 👋, meu nome é José Augusto
 
 🚀 **Desenvolvedor full stack em javascript**
