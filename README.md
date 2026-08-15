@@ -1,4 +1,4 @@
-<img src="./assets/code-terminal.gif" width="100%">
+<img src="./assets/code-terminal.gif" width="110%">
 
 # Olá 👋, meu nome é José Augusto
 
