@@ -6,7 +6,7 @@ Sou de Vilhena, Rondônia, e curso o ensino médio integrado ao técnico em Info
 
 Desenvolvo aplicações web com JavaScript, desde a interface até o servidor e a integração com bancos de dados. Também crio automações com n8n e agentes de IA com LangChain, incluindo projetos com RAG e busca em bases vetoriais.
 
-Gosto de aprender construindo, entender como as coisas funcionam e transformar ideias em projetos. Busco uma oportunidade para contribuir com uma equipe de desenvolvimento, resolver problemas reais e evoluir como profissional.
+Gosto de  entender como as coisas funcionam e transformar ideias em projetos. 
 
 ---
 
