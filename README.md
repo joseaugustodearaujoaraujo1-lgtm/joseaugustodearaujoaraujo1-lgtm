@@ -41,7 +41,7 @@ Gosto de entender como as coisas funcionam por dentro e transformar ideias em pr
 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
-| [**skills-pt-br**](https://github.com/joseaugustodearaujoaraujo1-lgtm/skills-pt-br) | Três skills em português para Claude Code: prevenção de falhas (85 falhas catalogadas), melhoria de design e criatividade aplicada | Claude Code · Markdown |
+| [**skills-pt-br**](https://github.com/joseaugustodearaujoaraujo1-lgtm/skills-pt-br) | Três skills em português para Claude Code: prevenção de falhas (86 falhas catalogadas), melhoria de design e criatividade aplicada | Claude Code · Markdown |
 
 ### RAG
 
