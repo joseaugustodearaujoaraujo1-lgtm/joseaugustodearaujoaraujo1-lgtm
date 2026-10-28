@@ -37,6 +37,12 @@ Gosto de entender como as coisas funcionam por dentro e transformar ideias em pr
 | [**agent_financeiro**](https://github.com/joseaugustodearaujoaraujo1-lgtm/agent_financeiro) | Agente com consulta de ações pela brapi e histórico de conversas no MySQL | LangChain · MySQL |
 | [**agent_langchain_produtos**](https://github.com/joseaugustodearaujoaraujo1-lgtm/agent_langchain_produtos) | Agente que consulta o catálogo de um supermercado no banco por ferramentas | LangChain · MySQL · Groq |
 
+### Skills para agentes de código
+
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**skills-pt-br**](https://github.com/joseaugustodearaujoaraujo1-lgtm/skills-pt-br) | Três skills em português para Claude Code: prevenção de falhas (85 falhas catalogadas), melhoria de design e criatividade aplicada | Claude Code · Markdown |
+
 ### RAG
 
 | Projeto | O que faz | Tecnologias |
