@@ -63,6 +63,13 @@ Gosto de  entender como as coisas funcionam e transformar ideias em projetos.
 
 ## 📊 Principais projetos
 
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [📈 multi_agents_financeiro](https://github.com/joseaugustodearaujoaraujo1-lgtm/multi_agents_financeiro#readme) | Orquestrador que delega para agentes de mercado financeiro e de notícias | LangChain · brapi · GNews · Tavily |
+| [📬 agent_MCP_email](https://github.com/joseaugustodearaujoaraujo1-lgtm/agent_MCP_email#readme) | Agente que escreve, envia e resume e-mails via MCP do n8n | LangChain · MCP · n8n |
+| [🧰 skills-pt-br](https://github.com/joseaugustodearaujoaraujo1-lgtm/skills-pt-br#readme) | Skills em português para agentes de código: prevenção de falhas, design e criatividade | Claude Code · Markdown |
+| [🍃 RAG_mongoDB-vector](https://github.com/joseaugustodearaujoaraujo1-lgtm/RAG_mongoDB-vector#readme) | RAG com vetores persistidos no MongoDB Atlas | LangChain · MongoDB Atlas |
+
 ### 🧠 RAG com banco vetorial local
 
 API que consulta documentos PDF usando RAG e uma base vetorial em memória, com geração de respostas por modelos acessados via API.
