@@ -1,95 +1,83 @@
-# Olá 👋, meu nome é José Augusto
+<div align="center">
 
-🚀 **Desenvolvedor Full Stack JavaScript | Automações e Inteligência Artificial**
+# José Augusto
 
-Sou de Vilhena, Rondônia, e curso o ensino médio integrado ao técnico em Informática no IFRO.
+**Desenvolvedor Full Stack JavaScript · Automações e Agentes de IA**
 
-Desenvolvo aplicações web com JavaScript, desde a interface até o servidor e a integração com bancos de dados. Também crio automações com n8n e agentes de IA com LangChain, incluindo projetos com RAG e busca em bases vetoriais.
+Vilhena, Rondônia · Técnico em Informática integrado ao ensino médio (IFRO)
 
-Gosto de  entender como as coisas funcionam e transformar ideias em projetos. 
+[![TikTok](https://img.shields.io/badge/TikTok-@jose.augusto.21-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jose.augusto.21)
+![Idiomas](https://img.shields.io/badge/idiomas-portugu%C3%AAs%20%C2%B7%20ingl%C3%AAs%20B1-4B5563?style=flat-square)
+
+</div>
 
 ---
 
-## 🌐 Onde me encontrar
+## Sobre
+
+Construo aplicações web com JavaScript, da interface ao servidor e ao banco de dados, e automatizo processos com **agentes de IA** usando LangChain e n8n. Meu foco atual é tornar agentes úteis e confiáveis: ferramentas bem definidas, modelos com fallback, RAG com bases vetoriais e integração via MCP.
+
+Gosto de entender como as coisas funcionam por dentro e transformar ideias em projetos que rodam de verdade.
+
+## Foco atual
+
+- 🤖 **Agentes de IA** com LangChain: orquestração, ferramentas (*tools*) e fallback entre modelos.
+- 🧠 **RAG** com base vetorial local e com MongoDB Atlas.
+- 🔌 **MCP e n8n** para ligar agentes a sistemas reais.
+- 🗄️ **Back-end** com Express, MySQL e MongoDB.
+
+## Projetos em destaque
+
+### Agentes de IA
+
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**multi_agents_financeiro**](https://github.com/joseaugustodearaujoaraujo1-lgtm/multi_agents_financeiro) | Orquestrador que delega a agentes de mercado financeiro (brapi) e de notícias (GNews e Tavily) | LangChain · Node.js |
+| [**agent_MCP_email**](https://github.com/joseaugustodearaujoaraujo1-lgtm/agent_MCP_email) | Agente que escreve, envia e resume e-mails por um servidor MCP do n8n | LangChain · MCP · n8n |
+| [**agent_financeiro**](https://github.com/joseaugustodearaujoaraujo1-lgtm/agent_financeiro) | Agente com consulta de ações pela brapi e histórico de conversas no MySQL | LangChain · MySQL |
+| [**agent_langchain_produtos**](https://github.com/joseaugustodearaujoaraujo1-lgtm/agent_langchain_produtos) | Agente que consulta o catálogo de um supermercado no banco por ferramentas | LangChain · MySQL · Groq |
+
+### RAG
+
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**RAG_banco_vetorial_local**](https://github.com/joseaugustodearaujoaraujo1-lgtm/RAG_banco_vetorial_local) | Responde perguntas sobre PDFs com base vetorial em memória | LangChain · Express |
+| [**RAG_mongoDB-vector**](https://github.com/joseaugustodearaujoaraujo1-lgtm/RAG_mongoDB-vector) | O mesmo fluxo, com vetores persistidos no MongoDB Atlas | LangChain · MongoDB Atlas |
+
+### Back-end e aplicações web
+
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**Autenticacao-JWT-backend-SQL**](https://github.com/joseaugustodearaujoaraujo1-lgtm/Autenticacao-JWT-backend-SQL) | Cadastro, login, códigos por e-mail e redefinição de senha, em camadas | Express · MySQL · JWT |
+| [**chatbot_anonymous**](https://github.com/joseaugustodearaujoaraujo1-lgtm/chatbot_anonymous) | Chatbot com agente de IA, autenticação e limite de requisições | Next.js · Node.js · MySQL |
+
+> Em construção: [agent_completo_supermercado](https://github.com/joseaugustodearaujoaraujo1-lgtm/agent_completo_supermercado), uma API de múltiplos agentes para supermercado.
+
+## Tecnologias
+
+| Área | Ferramentas |
+|---|---|
+| **Front-end** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Back-end** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST%20API-02569B?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Bancos de dados** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **IA e automação** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square) |
+| **Ferramentas** | ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white) ![v0](https://img.shields.io/badge/v0-000000?style=flat-square&logo=v0&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+## Como trabalho
+
+- **Documento o que existe**: cada projeto tem README com como rodar, rotas e limitações conhecidas.
+- **Segredos fora do código**: `.env` ignorado e `.env.example` versionado.
+- **Consultas parametrizadas** e validação de entrada com Zod nos agentes.
+- **Aprendo em público**: projetos de estudo ficam abertos, com a evolução visível.
+
+## Contato
 
 [![TikTok](https://img.shields.io/badge/TikTok-@jose.augusto.21-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jose.augusto.21)
 
 ---
 
-## 🧠 Minhas habilidades
+<div align="center">
 
-- 💻 Desenvolvimento full stack com JavaScript.
-- 🤖 Automações e agentes de IA com n8n e LangChain.
-- 🗄️ Bancos de dados SQL, NoSQL e bases vetoriais para RAG.
-- 🧩 Raciocínio lógico e resolução de problemas.
-- 💬 Comunicação e troca de conhecimento.
-- ⚡ Aprendizado rápido e disposição para novos desafios.
-- 🌍 Inglês intermediário — B1.
+*"Se eu entrar no jogo, eu entro para vencer!"*
 
----
-
-## 🛠️ Tecnologias
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Backend e bancos de dados
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### AUTOMAÇÕES E IA
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### Ferramentas
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=v0&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-## 📊 Principais projetos
-
-| Projeto | O que faz | Stack |
-|---|---|---|
-| [📈 multi_agents_financeiro](https://github.com/joseaugustodearaujoaraujo1-lgtm/multi_agents_financeiro#readme) | Orquestrador que delega para agentes de mercado financeiro e de notícias | LangChain · brapi · GNews · Tavily |
-| [📬 agent_MCP_email](https://github.com/joseaugustodearaujoaraujo1-lgtm/agent_MCP_email#readme) | Agente que escreve, envia e resume e-mails via MCP do n8n | LangChain · MCP · n8n |
-| [🧰 skills-pt-br](https://github.com/joseaugustodearaujoaraujo1-lgtm/skills-pt-br#readme) | Skills em português para agentes de código: prevenção de falhas, design e criatividade | Claude Code · Markdown |
-| [🍃 RAG_mongoDB-vector](https://github.com/joseaugustodearaujoaraujo1-lgtm/RAG_mongoDB-vector#readme) | RAG com vetores persistidos no MongoDB Atlas | LangChain · MongoDB Atlas |
-
-### 🧠 RAG com banco vetorial local
-
-API que consulta documentos PDF usando RAG e uma base vetorial em memória, com geração de respostas por modelos acessados via API.
-
-[Ver projeto e como executar](https://github.com/joseaugustodearaujoaraujo1-lgtm/RAG_banco_vetorial_local#readme)
-
-### 🤖 Agente financeiro
-
-Agente de IA com consulta de informações financeiras pela brapi e histórico de conversas armazenado no MySQL.
-
-[Ver projeto e como executar](https://github.com/joseaugustodearaujoaraujo1-lgtm/agent_financeiro#readme)
-
-### 🔐 Backend de autenticação com JWT
-
-API com cadastro, login, envio e verificação de códigos por e-mail e redefinição de senha. Desenvolvida com Node.js, Express e MySQL, com organização em camadas.
-
-[Ver projeto e como executar](https://github.com/joseaugustodearaujoaraujo1-lgtm/Autenticacao-JWT-backend-SQL#readme)
-
----
-
-## 🚀 Filosofia
-
-> "Se eu entrar no jogo, eu entro para vencer!"
+</div>
